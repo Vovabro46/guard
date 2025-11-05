@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Harmony/refs/heads/main/src/init.luau"))();
 
 local Window = Library.new({
-	Title = "Game Hub "..Library.Version,
+	Title = "Dinas Hub Op "..Library.Version,
 })
 
 -- Tabs

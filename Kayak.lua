@@ -637,7 +637,7 @@ do
 	});
 	
 	InfoSection:AddParagraph({
-		Title = 'Game Hub',
+		Title = 'Dinas Hub',
 		Content = "Game automation script\nAll functions collected in convenient interface"
 	});
 
